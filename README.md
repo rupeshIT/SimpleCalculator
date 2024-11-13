@@ -16,4 +16,4 @@ This is a basic calculator program written in Java. It performs basic arithmetic
 1. Clone or download the repository to your local machine.
    
    ```bash
-   git clone https://github.com/your-username/simple-java-calculator.git
+   git clone https://github.com/rupeshIT/simple-java-calculator.git
